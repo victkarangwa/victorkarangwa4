@@ -11,7 +11,7 @@ A full-stack Software Engineer based in <b>Kigali, Rwanda</b> who's always creat
 
 ### 📫 How to reach me:
 
-<a href="https://victorkarangwa.com/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>    <a href="https://www.linkedin.com/in/victorkarangwa4"><img src="https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=white" alt="website"/></a>    <a href="https://www.linkedin.com/in/victorkarangwa4"><img src="https://img.shields.io/badge/-LinkedIn-2828FF?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
+<a href="https://victorkarangwa.com/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>    <a href="https://www.twitter.com/victorkarangwa4"><img src="https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=white" alt="website"/></a>    <a href="https://www.linkedin.com/in/victorkarangwa4"><img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
 <!--
 **victorkarangwa4/victorkarangwa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
